@@ -6,3 +6,5 @@ Model package:
 
 Model development script:
 1. Regression_Bayesian gsearch (Initial Subsequent) w redfeatures_Github.ipynb: script for model development with selected features
+
+* PK model_Github.ipynb: Based on UCSF PK model toolkit
